@@ -1,2 +1,27 @@
-10-06-2025 | 18:07:58 - INFO -Il y a 1 Filtre(s) sélectionné(s) :, (4226) produits, et la catégorie est : De 1 à 2 kg+
-10-06-2025 | 18:07:58 - INFO - il y 1 Filtre(s) sélectionné(s) : sur la page Page 1/20 qui contient 48 éléments.
+11-06-2025 | 02:31:43 - INFO -Il y a 1 Filtre(s) sélectionné(s) :, (2076) produits, et la catégorie est : De 15" à 16"+
+11-06-2025 | 02:31:43 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 1/20, qui contient 48 éléments.
+11-06-2025 | 02:31:59 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 2/20, qui contient 48 éléments.
+11-06-2025 | 02:32:14 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 3/20, qui contient 48 éléments.
+11-06-2025 | 02:32:28 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 4/20, qui contient 48 éléments.
+11-06-2025 | 02:32:42 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 5/20, qui contient 48 éléments.
+11-06-2025 | 02:32:56 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 6/20, qui contient 48 éléments.
+11-06-2025 | 02:33:10 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 7/20, qui contient 48 éléments.
+11-06-2025 | 02:33:23 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 8/20, qui contient 48 éléments.
+11-06-2025 | 02:33:39 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 9/20, qui contient 48 éléments.
+11-06-2025 | 02:33:53 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 10/20, qui contient 48 éléments.
+11-06-2025 | 02:34:09 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 11/20, qui contient 48 éléments.
+11-06-2025 | 02:34:23 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 12/20, qui contient 48 éléments.
+11-06-2025 | 02:34:38 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 13/20, qui contient 48 éléments.
+11-06-2025 | 02:34:53 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 14/20, qui contient 48 éléments.
+11-06-2025 | 02:35:10 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 15/20, qui contient 48 éléments.
+11-06-2025 | 02:35:25 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 16/20, qui contient 48 éléments.
+11-06-2025 | 02:35:40 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 17/20, qui contient 48 éléments.
+11-06-2025 | 02:35:55 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 18/20, qui contient 48 éléments.
+11-06-2025 | 02:36:11 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 19/20, qui contient 48 éléments.
+11-06-2025 | 02:36:28 - INFO -Il y a 1 Filtre(s) sélectionné(s) : sur la page Page 20/20, qui contient 48 éléments.
+11-06-2025 | 02:36:49 - INFO -Nous sommes sur la dernière page : Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("//li[a[@class=\"current\"]]/following-sibling::li[1]/a") to be visible
+
+11-06-2025 | 02:36:49 - INFO -Le Dataframe complet a bien été enregistré.
+11-06-2025 | 02:36:49 - INFO -Le Dataframe en promo a bien été enregistré.
