@@ -179,7 +179,7 @@ def pagination(page):
 
 def main():
     url = "https://www.cdiscount.com/informatique/r-pc+portable+14+pouces.html#_his_"
-    SBR_WS_CDP = "wss://brd-customer-hl_c337fd9e-zone-scraping_browser1:oyls3zs0xaeg@brd.superproxy.io:9222"
+    SBR_WS_CDP = "wss://brd-customer-hl"
     all_items = []
 
     with sync_playwright() as p:
